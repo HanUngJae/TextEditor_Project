@@ -1,0 +1,267 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{00CBD40B-7B0D-4D93-B2B7-549932BBA784}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>TextEditor_Project</RootNamespace>
+    <AssemblyName>TextEditor_Project</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <TargetFrameworkProfile />
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="ColorPicker">
+      <HintPath>..\..\..\..\Desktop\HCI project_9 파일\예제\Black Belt Coder - ColorPicker\bin\Debug\ColorPicker.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="WebDriver, Version=3.141.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Selenium.WebDriver.3.141.0\lib\net45\WebDriver.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Calculator.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Calculator.designer.cs">
+      <DependentUpon>Calculator.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ColorSelectedArg.cs" />
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HyperLink.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HyperLink.Designer.cs">
+      <DependentUpon>HyperLink.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="도움말%28보기%29.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="도움말%28보기%29.designer.cs">
+      <DependentUpon>도움말%28보기%29.cs</DependentUpon>
+    </Compile>
+    <Compile Include="도움말%28서식%29.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="도움말%28서식%29.designer.cs">
+      <DependentUpon>도움말%28서식%29.cs</DependentUpon>
+    </Compile>
+    <Compile Include="도움말%28입력%29.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="도움말%28입력%29.designer.cs">
+      <DependentUpon>도움말%28입력%29.cs</DependentUpon>
+    </Compile>
+    <Compile Include="도움말%28파일%29.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="도움말%28파일%29.designer.cs">
+      <DependentUpon>도움말%28파일%29.cs</DependentUpon>
+    </Compile>
+    <Compile Include="도움말%28편집%29.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="도움말%28편집%29.designer.cs">
+      <DependentUpon>도움말%28편집%29.cs</DependentUpon>
+    </Compile>
+    <Compile Include="도움말.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="도움말.designer.cs">
+      <DependentUpon>도움말.cs</DependentUpon>
+    </Compile>
+    <Compile Include="메모장정보.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="메모장정보.designer.cs">
+      <DependentUpon>메모장정보.cs</DependentUpon>
+    </Compile>
+    <Compile Include="바꾸기.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="바꾸기.designer.cs">
+      <DependentUpon>바꾸기.cs</DependentUpon>
+    </Compile>
+    <Compile Include="찾기.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="찾기.designer.cs">
+      <DependentUpon>찾기.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Calculator.resx">
+      <DependentUpon>Calculator.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HyperLink.resx">
+      <DependentUpon>HyperLink.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="도움말%28보기%29.resx">
+      <DependentUpon>도움말%28보기%29.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="도움말%28서식%29.resx">
+      <DependentUpon>도움말%28서식%29.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="도움말%28입력%29.resx">
+      <DependentUpon>도움말%28입력%29.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="도움말%28파일%29.resx">
+      <DependentUpon>도움말%28파일%29.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="도움말%28편집%29.resx">
+      <DependentUpon>도움말%28편집%29.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="도움말.resx">
+      <DependentUpon>도움말.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="메모장정보.resx">
+      <DependentUpon>메모장정보.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="바꾸기.resx">
+      <DependentUpon>바꾸기.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="찾기.resx">
+      <DependentUpon>찾기.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="Accessibility">
+      <Guid>{1EA4DBF0-3C3B-11CF-810C-00AA00389B71}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>1</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\도움말.png" />
+    <None Include="Resources\파일.png" />
+    <None Include="Resources\편집.png" />
+    <None Include="Resources\서식.png" />
+    <None Include="Resources\입력.png" />
+    <None Include="Resources\폰트모양.JPG" />
+    <None Include="Resources\폰트크기.JPG" />
+    <None Include="Resources\상태표시줄.JPG" />
+    <None Include="Resources\바꾸기.JPG" />
+    <None Include="Resources\문자표.JPG" />
+    <None Include="Resources\정렬.JPG" />
+    <None Include="Resources\전체.JPG" />
+    <None Include="Resources\그림판.JPG" />
+    <None Include="Resources\찾기.JPG" />
+    <None Include="Resources\사진.JPG" />
+    <None Include="Resources\인터넷검색.JPG" />
+    <None Include="Resources\시간.JPG" />
+    <None Include="Resources\찾기_Icon.png" />
+    <None Include="Resources\바꾸기_Icon.png" />
+    <None Include="Resources\흑백%29 오른쪽 정렬_Icon.png" />
+    <None Include="Resources\흑백%29 중앙 정령_Icon.png" />
+    <None Include="Resources\흑백%29 왼쪽 정렬_Icon.png" />
+    <None Include="Resources\밑줄_Icon.png" />
+    <None Include="Resources\취소선_Icon.png" />
+    <None Include="Resources\이탤릭체_Icon.png" />
+    <None Include="Resources\끝내기_Icon.png" />
+    <None Include="Resources\새 문서_Icon.png" />
+    <None Include="Resources\불러오기_Icon.png" />
+    <None Include="Resources\인쇄_Icon.png" />
+    <None Include="Resources\다른 이름으로 저장_Icon.png" />
+    <None Include="Resources\저장_Icon.png" />
+    <None Include="Resources\그림판_Icon.png" />
+    <None Include="Resources\그림_Icon2.png" />
+    <None Include="Resources\날짜 시간_Icon.png" />
+    <None Include="Resources\볼드체.png" />
+    <None Include="Resources\오른쪽 정렬.png" />
+    <None Include="Resources\왼쪽 정렬.png" />
+    <None Include="Resources\중앙 정렬.png" />
+    <None Include="Resources\중앙 정렬-크기 조절1.png" />
+    <None Include="Resources\Test이미지.png" />
+    <None Include="Resources\Test이미지2-cutout.png" />
+    <None Include="Resources\Test이미지2-cutout-px편집.png" />
+    <None Include="Resources\Test이미지2-cutout-px편집2.png" />
+    <None Include="Resources\business-color_calculator_icon-icons.com_53466.png" />
+    <None Include="Resources\검색_Icon.png" />
+    <None Include="Resources\Clear_Icon.png" />
+    <None Include="Resources\계산기.JPG" />
+    <None Include="Resources\8251-reference-mark.png" />
+    <Content Include="Resources\그림3.png" />
+    <None Include="Resources\그림31.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <Import Project="..\packages\Selenium.Chrome.WebDriver.83.0.0\build\Selenium.Chrome.WebDriver.targets" Condition="Exists('..\packages\Selenium.Chrome.WebDriver.83.0.0\build\Selenium.Chrome.WebDriver.targets')" />
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>이 프로젝트는 이 컴퓨터에 없는 NuGet 패키지를 참조합니다. 해당 패키지를 다운로드하려면 NuGet 패키지 복원을 사용하십시오. 자세한 내용은 http://go.microsoft.com/fwlink/?LinkID=322105를 참조하십시오. 누락된 파일은 {0}입니다.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\packages\Selenium.Chrome.WebDriver.83.0.0\build\Selenium.Chrome.WebDriver.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\Selenium.Chrome.WebDriver.83.0.0\build\Selenium.Chrome.WebDriver.targets'))" />
+  </Target>
+</Project>

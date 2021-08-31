@@ -1,0 +1,444 @@
+C:\Users\한웅재\source\repos\HCI project_9\HCI project_9\bin\Debug\HCI project_9.exe.config
+C:\Users\한웅재\source\repos\HCI project_9\HCI project_9\bin\Debug\HCI project_9.exe
+C:\Users\한웅재\source\repos\HCI project_9\HCI project_9\bin\Debug\HCI project_9.pdb
+C:\Users\한웅재\source\repos\HCI project_9\HCI project_9\obj\Debug\HCI_project_9.Form1.resources
+C:\Users\한웅재\source\repos\HCI project_9\HCI project_9\obj\Debug\HCI_project_9.Properties.Resources.resources
+C:\Users\한웅재\source\repos\HCI project_9\HCI project_9\obj\Debug\HCI project_9.csproj.GenerateResource.cache
+C:\Users\한웅재\source\repos\HCI project_9\HCI project_9\obj\Debug\HCI project_9.csproj.CoreCompileInputs.cache
+C:\Users\한웅재\source\repos\HCI project_9\HCI project_9\obj\Debug\HCI project_9.exe
+C:\Users\한웅재\source\repos\HCI project_9\HCI project_9\obj\Debug\HCI project_9.pdb
+C:\Users\한웅재\source\repos\HCI project_9\HCI project_9\obj\Debug\HCI project_9.csprojAssemblyReference.cache
+C:\Users\한웅재\source\repos\HCI project_9\HCI project_9\obj\Debug\WindowsFormsApp1.Calculator.resources
+C:\Users\한웅재\source\repos\HCI project_9\HCI project_9\obj\Debug\HCI_project_9.HyperLink.resources
+C:\Users\한웅재\source\repos\HCI project_9\HCI project_9\obj\Debug\HCI_project_9.Font_Name_Print.resources
+C:\Users\한웅재\source\repos\HCI project_9\HCI project_9\obj\Debug\_0522.도움말_보기.resources
+C:\Users\한웅재\source\repos\HCI project_9\HCI project_9\obj\Debug\_0522.도움말_서식.resources
+C:\Users\한웅재\source\repos\HCI project_9\HCI project_9\obj\Debug\_0522.도움말_입력.resources
+C:\Users\한웅재\source\repos\HCI project_9\HCI project_9\obj\Debug\_0522.도움말_파일.resources
+C:\Users\한웅재\source\repos\HCI project_9\HCI project_9\obj\Debug\_0522.도움말_편집.resources
+C:\Users\한웅재\source\repos\HCI project_9\HCI project_9\obj\Debug\_0522.도움말.resources
+C:\Users\한웅재\source\repos\HCI project_9\HCI project_9\obj\Debug\_0522.메모장정보.resources
+C:\Users\한웅재\source\repos\HCI project_9\HCI project_9\bin\Debug\WebDriver.dll
+C:\Users\한웅재\source\repos\HCI project_9\HCI project_9\bin\Debug\WebDriver.xml
+C:\Users\한웅재\source\repos\HCI project_9\HCI project_9\obj\Debug\HCI project_9.csproj.CopyComplete
+C:\Users\한웅재\source\repos\HCI project_9\HCI project_9\obj\Debug\_0522.찾기.resources
+C:\Users\한웅재\source\repos\HCI project_9\HCI project_9\obj\Debug\HCI_project_9.바꾸기.resources
+C:\Users\한웅재\source\repos\HCI project_9\HCI project_9\obj\Debug\Interop.Accessibility.dll
+C:\Users\한웅재\source\repos\HCI project_9\HCI project_9\obj\Debug\HCI project_9.csproj.ResolveComReference.cache
+C:\Users\한웅재\source\repos\HCI project_9\HCI project_9\bin\Debug\ColorPicker.dll
+C:\Users\한웅재\source\repos\HCI project_9\HCI project_9\bin\Debug\ColorPicker.pdb
+C:\Users\wnslf\OneDrive\바탕 화면\HCI project_9\bin\Debug\HCI project_9.exe.config
+C:\Users\wnslf\OneDrive\바탕 화면\HCI project_9\bin\Debug\HCI project_9.exe
+C:\Users\wnslf\OneDrive\바탕 화면\HCI project_9\bin\Debug\HCI project_9.pdb
+C:\Users\wnslf\OneDrive\바탕 화면\HCI project_9\bin\Debug\WebDriver.dll
+C:\Users\wnslf\OneDrive\바탕 화면\HCI project_9\bin\Debug\ColorPicker.pdb
+C:\Users\wnslf\OneDrive\바탕 화면\HCI project_9\bin\Debug\WebDriver.xml
+C:\Users\wnslf\OneDrive\바탕 화면\HCI project_9\obj\Debug\HCI project_9.csprojAssemblyReference.cache
+C:\Users\wnslf\OneDrive\바탕 화면\HCI project_9\obj\Debug\Interop.Accessibility.dll
+C:\Users\wnslf\OneDrive\바탕 화면\HCI project_9\obj\Debug\HCI project_9.csproj.ResolveComReference.cache
+C:\Users\wnslf\OneDrive\바탕 화면\HCI project_9\obj\Debug\WindowsFormsApp1.Calculator.resources
+C:\Users\wnslf\OneDrive\바탕 화면\HCI project_9\obj\Debug\HCI_project_9.Font_Name_Print.resources
+C:\Users\wnslf\OneDrive\바탕 화면\HCI project_9\obj\Debug\HCI_project_9.Form1.resources
+C:\Users\wnslf\OneDrive\바탕 화면\HCI project_9\obj\Debug\HCI_project_9.HyperLink.resources
+C:\Users\wnslf\OneDrive\바탕 화면\HCI project_9\obj\Debug\HCI_project_9.Properties.Resources.resources
+C:\Users\wnslf\OneDrive\바탕 화면\HCI project_9\obj\Debug\_0522.도움말_보기.resources
+C:\Users\wnslf\OneDrive\바탕 화면\HCI project_9\obj\Debug\_0522.도움말_서식.resources
+C:\Users\wnslf\OneDrive\바탕 화면\HCI project_9\obj\Debug\_0522.도움말_입력.resources
+C:\Users\wnslf\OneDrive\바탕 화면\HCI project_9\obj\Debug\_0522.도움말_파일.resources
+C:\Users\wnslf\OneDrive\바탕 화면\HCI project_9\obj\Debug\_0522.도움말_편집.resources
+C:\Users\wnslf\OneDrive\바탕 화면\HCI project_9\obj\Debug\_0522.도움말.resources
+C:\Users\wnslf\OneDrive\바탕 화면\HCI project_9\obj\Debug\_0522.메모장정보.resources
+C:\Users\wnslf\OneDrive\바탕 화면\HCI project_9\obj\Debug\HCI_project_9.바꾸기.resources
+C:\Users\wnslf\OneDrive\바탕 화면\HCI project_9\obj\Debug\_0522.찾기.resources
+C:\Users\wnslf\OneDrive\바탕 화면\HCI project_9\obj\Debug\HCI project_9.csproj.GenerateResource.cache
+C:\Users\wnslf\OneDrive\바탕 화면\HCI project_9\obj\Debug\HCI project_9.csproj.CoreCompileInputs.cache
+C:\Users\wnslf\OneDrive\바탕 화면\HCI project_9\obj\Debug\HCI project_9.csproj.CopyComplete
+C:\Users\wnslf\OneDrive\바탕 화면\HCI project_9\obj\Debug\HCI project_9.exe
+C:\Users\wnslf\OneDrive\바탕 화면\HCI project_9\obj\Debug\HCI project_9.pdb
+C:\Users\wnslf\OneDrive\바탕 화면\HCI\HCI project_9\bin\Debug\HCI project_9.exe.config
+C:\Users\wnslf\OneDrive\바탕 화면\HCI\HCI project_9\bin\Debug\HCI project_9.exe
+C:\Users\wnslf\OneDrive\바탕 화면\HCI\HCI project_9\bin\Debug\HCI project_9.pdb
+C:\Users\wnslf\OneDrive\바탕 화면\HCI\HCI project_9\bin\Debug\WebDriver.dll
+C:\Users\wnslf\OneDrive\바탕 화면\HCI\HCI project_9\bin\Debug\ColorPicker.pdb
+C:\Users\wnslf\OneDrive\바탕 화면\HCI\HCI project_9\bin\Debug\WebDriver.xml
+C:\Users\wnslf\OneDrive\바탕 화면\HCI\HCI project_9\obj\Debug\HCI project_9.csprojAssemblyReference.cache
+C:\Users\wnslf\OneDrive\바탕 화면\HCI\HCI project_9\obj\Debug\Interop.Accessibility.dll
+C:\Users\wnslf\OneDrive\바탕 화면\HCI\HCI project_9\obj\Debug\HCI project_9.csproj.ResolveComReference.cache
+C:\Users\wnslf\OneDrive\바탕 화면\HCI\HCI project_9\obj\Debug\WindowsFormsApp1.Calculator.resources
+C:\Users\wnslf\OneDrive\바탕 화면\HCI\HCI project_9\obj\Debug\HCI_project_9.Font_Name_Print.resources
+C:\Users\wnslf\OneDrive\바탕 화면\HCI\HCI project_9\obj\Debug\HCI_project_9.Form1.resources
+C:\Users\wnslf\OneDrive\바탕 화면\HCI\HCI project_9\obj\Debug\HCI_project_9.HyperLink.resources
+C:\Users\wnslf\OneDrive\바탕 화면\HCI\HCI project_9\obj\Debug\HCI_project_9.Properties.Resources.resources
+C:\Users\wnslf\OneDrive\바탕 화면\HCI\HCI project_9\obj\Debug\_0522.도움말_보기.resources
+C:\Users\wnslf\OneDrive\바탕 화면\HCI\HCI project_9\obj\Debug\_0522.도움말_서식.resources
+C:\Users\wnslf\OneDrive\바탕 화면\HCI\HCI project_9\obj\Debug\_0522.도움말_입력.resources
+C:\Users\wnslf\OneDrive\바탕 화면\HCI\HCI project_9\obj\Debug\_0522.도움말_파일.resources
+C:\Users\wnslf\OneDrive\바탕 화면\HCI\HCI project_9\obj\Debug\_0522.도움말_편집.resources
+C:\Users\wnslf\OneDrive\바탕 화면\HCI\HCI project_9\obj\Debug\_0522.도움말.resources
+C:\Users\wnslf\OneDrive\바탕 화면\HCI\HCI project_9\obj\Debug\_0522.메모장정보.resources
+C:\Users\wnslf\OneDrive\바탕 화면\HCI\HCI project_9\obj\Debug\HCI_project_9.바꾸기.resources
+C:\Users\wnslf\OneDrive\바탕 화면\HCI\HCI project_9\obj\Debug\_0522.찾기.resources
+C:\Users\wnslf\OneDrive\바탕 화면\HCI\HCI project_9\obj\Debug\HCI project_9.csproj.GenerateResource.cache
+C:\Users\wnslf\OneDrive\바탕 화면\HCI\HCI project_9\obj\Debug\HCI project_9.csproj.CoreCompileInputs.cache
+C:\Users\wnslf\OneDrive\바탕 화면\HCI\HCI project_9\obj\Debug\HCI project_9.csproj.CopyComplete
+C:\Users\wnslf\OneDrive\바탕 화면\HCI\HCI project_9\obj\Debug\HCI project_9.exe
+C:\Users\wnslf\OneDrive\바탕 화면\HCI\HCI project_9\obj\Debug\HCI project_9.pdb
+C:\Users\gudwn\source\repos\HCI\HCI project_9\bin\Debug\HCI project_9.exe.config
+C:\Users\gudwn\source\repos\HCI\HCI project_9\bin\Debug\HCI project_9.exe
+C:\Users\gudwn\source\repos\HCI\HCI project_9\bin\Debug\HCI project_9.pdb
+C:\Users\gudwn\source\repos\HCI\HCI project_9\bin\Debug\WebDriver.dll
+C:\Users\gudwn\source\repos\HCI\HCI project_9\bin\Debug\ColorPicker.pdb
+C:\Users\gudwn\source\repos\HCI\HCI project_9\bin\Debug\WebDriver.xml
+C:\Users\gudwn\source\repos\HCI\HCI project_9\obj\Debug\HCI project_9.csprojAssemblyReference.cache
+C:\Users\gudwn\source\repos\HCI\HCI project_9\obj\Debug\Interop.Accessibility.dll
+C:\Users\gudwn\source\repos\HCI\HCI project_9\obj\Debug\HCI project_9.csproj.ResolveComReference.cache
+C:\Users\gudwn\source\repos\HCI\HCI project_9\obj\Debug\WindowsFormsApp1.Calculator.resources
+C:\Users\gudwn\source\repos\HCI\HCI project_9\obj\Debug\HCI_project_9.Font_Name_Print.resources
+C:\Users\gudwn\source\repos\HCI\HCI project_9\obj\Debug\HCI_project_9.Form1.resources
+C:\Users\gudwn\source\repos\HCI\HCI project_9\obj\Debug\HCI_project_9.HyperLink.resources
+C:\Users\gudwn\source\repos\HCI\HCI project_9\obj\Debug\HCI_project_9.Properties.Resources.resources
+C:\Users\gudwn\source\repos\HCI\HCI project_9\obj\Debug\_0522.도움말_보기.resources
+C:\Users\gudwn\source\repos\HCI\HCI project_9\obj\Debug\_0522.도움말_서식.resources
+C:\Users\gudwn\source\repos\HCI\HCI project_9\obj\Debug\_0522.도움말_입력.resources
+C:\Users\gudwn\source\repos\HCI\HCI project_9\obj\Debug\_0522.도움말_파일.resources
+C:\Users\gudwn\source\repos\HCI\HCI project_9\obj\Debug\_0522.도움말_편집.resources
+C:\Users\gudwn\source\repos\HCI\HCI project_9\obj\Debug\_0522.도움말.resources
+C:\Users\gudwn\source\repos\HCI\HCI project_9\obj\Debug\_0522.메모장정보.resources
+C:\Users\gudwn\source\repos\HCI\HCI project_9\obj\Debug\HCI_project_9.바꾸기.resources
+C:\Users\gudwn\source\repos\HCI\HCI project_9\obj\Debug\_0522.찾기.resources
+C:\Users\gudwn\source\repos\HCI\HCI project_9\obj\Debug\HCI project_9.csproj.GenerateResource.cache
+C:\Users\gudwn\source\repos\HCI\HCI project_9\obj\Debug\HCI project_9.csproj.CoreCompileInputs.cache
+C:\Users\gudwn\source\repos\HCI\HCI project_9\obj\Debug\HCI project_9.csproj.CopyComplete
+C:\Users\gudwn\source\repos\HCI\HCI project_9\obj\Debug\HCI project_9.exe
+C:\Users\gudwn\source\repos\HCI\HCI project_9\obj\Debug\HCI project_9.pdb
+C:\Users\gudwn\source\repos\HCI_9\HCI project_9\bin\Debug\HCI project_9.exe.config
+C:\Users\gudwn\source\repos\HCI_9\HCI project_9\bin\Debug\HCI project_9.exe
+C:\Users\gudwn\source\repos\HCI_9\HCI project_9\bin\Debug\HCI project_9.pdb
+C:\Users\gudwn\source\repos\HCI_9\HCI project_9\bin\Debug\WebDriver.dll
+C:\Users\gudwn\source\repos\HCI_9\HCI project_9\bin\Debug\ColorPicker.pdb
+C:\Users\gudwn\source\repos\HCI_9\HCI project_9\bin\Debug\WebDriver.xml
+C:\Users\gudwn\source\repos\HCI_9\HCI project_9\obj\Debug\HCI project_9.csprojAssemblyReference.cache
+C:\Users\gudwn\source\repos\HCI_9\HCI project_9\obj\Debug\Interop.Accessibility.dll
+C:\Users\gudwn\source\repos\HCI_9\HCI project_9\obj\Debug\HCI project_9.csproj.ResolveComReference.cache
+C:\Users\gudwn\source\repos\HCI_9\HCI project_9\obj\Debug\WindowsFormsApp1.Calculator.resources
+C:\Users\gudwn\source\repos\HCI_9\HCI project_9\obj\Debug\HCI_project_9.Font_Name_Print.resources
+C:\Users\gudwn\source\repos\HCI_9\HCI project_9\obj\Debug\HCI_project_9.Form1.resources
+C:\Users\gudwn\source\repos\HCI_9\HCI project_9\obj\Debug\HCI_project_9.HyperLink.resources
+C:\Users\gudwn\source\repos\HCI_9\HCI project_9\obj\Debug\HCI_project_9.Properties.Resources.resources
+C:\Users\gudwn\source\repos\HCI_9\HCI project_9\obj\Debug\_0522.도움말_보기.resources
+C:\Users\gudwn\source\repos\HCI_9\HCI project_9\obj\Debug\_0522.도움말_서식.resources
+C:\Users\gudwn\source\repos\HCI_9\HCI project_9\obj\Debug\_0522.도움말_입력.resources
+C:\Users\gudwn\source\repos\HCI_9\HCI project_9\obj\Debug\_0522.도움말_파일.resources
+C:\Users\gudwn\source\repos\HCI_9\HCI project_9\obj\Debug\_0522.도움말_편집.resources
+C:\Users\gudwn\source\repos\HCI_9\HCI project_9\obj\Debug\_0522.도움말.resources
+C:\Users\gudwn\source\repos\HCI_9\HCI project_9\obj\Debug\_0522.메모장정보.resources
+C:\Users\gudwn\source\repos\HCI_9\HCI project_9\obj\Debug\HCI_project_9.바꾸기.resources
+C:\Users\gudwn\source\repos\HCI_9\HCI project_9\obj\Debug\_0522.찾기.resources
+C:\Users\gudwn\source\repos\HCI_9\HCI project_9\obj\Debug\HCI project_9.csproj.GenerateResource.cache
+C:\Users\gudwn\source\repos\HCI_9\HCI project_9\obj\Debug\HCI project_9.csproj.CoreCompileInputs.cache
+C:\Users\gudwn\source\repos\HCI_9\HCI project_9\obj\Debug\HCI project_9.csproj.CopyComplete
+C:\Users\gudwn\source\repos\HCI_9\HCI project_9\obj\Debug\HCI project_9.exe
+C:\Users\gudwn\source\repos\HCI_9\HCI project_9\obj\Debug\HCI project_9.pdb
+C:\Users\gudwn\source\repos\HCI_9 버튼활성화\HCI project_9\bin\Debug\HCI project_9.exe.config
+C:\Users\gudwn\source\repos\HCI_9 버튼활성화\HCI project_9\bin\Debug\HCI project_9.exe
+C:\Users\gudwn\source\repos\HCI_9 버튼활성화\HCI project_9\bin\Debug\HCI project_9.pdb
+C:\Users\gudwn\source\repos\HCI_9 버튼활성화\HCI project_9\bin\Debug\WebDriver.dll
+C:\Users\gudwn\source\repos\HCI_9 버튼활성화\HCI project_9\bin\Debug\ColorPicker.pdb
+C:\Users\gudwn\source\repos\HCI_9 버튼활성화\HCI project_9\bin\Debug\WebDriver.xml
+C:\Users\gudwn\source\repos\HCI_9 버튼활성화\HCI project_9\obj\Debug\HCI project_9.csprojAssemblyReference.cache
+C:\Users\gudwn\source\repos\HCI_9 버튼활성화\HCI project_9\obj\Debug\Interop.Accessibility.dll
+C:\Users\gudwn\source\repos\HCI_9 버튼활성화\HCI project_9\obj\Debug\HCI project_9.csproj.ResolveComReference.cache
+C:\Users\gudwn\source\repos\HCI_9 버튼활성화\HCI project_9\obj\Debug\WindowsFormsApp1.Calculator.resources
+C:\Users\gudwn\source\repos\HCI_9 버튼활성화\HCI project_9\obj\Debug\HCI_project_9.Font_Name_Print.resources
+C:\Users\gudwn\source\repos\HCI_9 버튼활성화\HCI project_9\obj\Debug\HCI_project_9.Form1.resources
+C:\Users\gudwn\source\repos\HCI_9 버튼활성화\HCI project_9\obj\Debug\HCI_project_9.HyperLink.resources
+C:\Users\gudwn\source\repos\HCI_9 버튼활성화\HCI project_9\obj\Debug\HCI_project_9.Properties.Resources.resources
+C:\Users\gudwn\source\repos\HCI_9 버튼활성화\HCI project_9\obj\Debug\_0522.도움말_보기.resources
+C:\Users\gudwn\source\repos\HCI_9 버튼활성화\HCI project_9\obj\Debug\_0522.도움말_서식.resources
+C:\Users\gudwn\source\repos\HCI_9 버튼활성화\HCI project_9\obj\Debug\_0522.도움말_입력.resources
+C:\Users\gudwn\source\repos\HCI_9 버튼활성화\HCI project_9\obj\Debug\_0522.도움말_파일.resources
+C:\Users\gudwn\source\repos\HCI_9 버튼활성화\HCI project_9\obj\Debug\_0522.도움말_편집.resources
+C:\Users\gudwn\source\repos\HCI_9 버튼활성화\HCI project_9\obj\Debug\_0522.도움말.resources
+C:\Users\gudwn\source\repos\HCI_9 버튼활성화\HCI project_9\obj\Debug\_0522.메모장정보.resources
+C:\Users\gudwn\source\repos\HCI_9 버튼활성화\HCI project_9\obj\Debug\HCI_project_9.바꾸기.resources
+C:\Users\gudwn\source\repos\HCI_9 버튼활성화\HCI project_9\obj\Debug\_0522.찾기.resources
+C:\Users\gudwn\source\repos\HCI_9 버튼활성화\HCI project_9\obj\Debug\HCI project_9.csproj.GenerateResource.cache
+C:\Users\gudwn\source\repos\HCI_9 버튼활성화\HCI project_9\obj\Debug\HCI project_9.csproj.CoreCompileInputs.cache
+C:\Users\gudwn\source\repos\HCI_9 버튼활성화\HCI project_9\obj\Debug\HCI project_9.csproj.CopyComplete
+C:\Users\gudwn\source\repos\HCI_9 버튼활성화\HCI project_9\obj\Debug\HCI project_9.exe
+C:\Users\gudwn\source\repos\HCI_9 버튼활성화\HCI project_9\obj\Debug\HCI project_9.pdb
+C:\Users\한웅재\Desktop\HCI project_9 파일\조원 프로젝트\HCI_9 버튼활성화 (2)\HCI_9 버튼활성화\HCI project_9\bin\Debug\HCI project_9.exe.config
+C:\Users\한웅재\Desktop\HCI project_9 파일\조원 프로젝트\HCI_9 버튼활성화 (2)\HCI_9 버튼활성화\HCI project_9\bin\Debug\HCI project_9.exe
+C:\Users\한웅재\Desktop\HCI project_9 파일\조원 프로젝트\HCI_9 버튼활성화 (2)\HCI_9 버튼활성화\HCI project_9\bin\Debug\HCI project_9.pdb
+C:\Users\한웅재\Desktop\HCI project_9 파일\조원 프로젝트\HCI_9 버튼활성화 (2)\HCI_9 버튼활성화\HCI project_9\bin\Debug\WebDriver.dll
+C:\Users\한웅재\Desktop\HCI project_9 파일\조원 프로젝트\HCI_9 버튼활성화 (2)\HCI_9 버튼활성화\HCI project_9\bin\Debug\ColorPicker.pdb
+C:\Users\한웅재\Desktop\HCI project_9 파일\조원 프로젝트\HCI_9 버튼활성화 (2)\HCI_9 버튼활성화\HCI project_9\bin\Debug\WebDriver.xml
+C:\Users\한웅재\Desktop\HCI project_9 파일\조원 프로젝트\HCI_9 버튼활성화 (2)\HCI_9 버튼활성화\HCI project_9\obj\Debug\HCI project_9.csprojAssemblyReference.cache
+C:\Users\한웅재\Desktop\HCI project_9 파일\조원 프로젝트\HCI_9 버튼활성화 (2)\HCI_9 버튼활성화\HCI project_9\obj\Debug\Interop.Accessibility.dll
+C:\Users\한웅재\Desktop\HCI project_9 파일\조원 프로젝트\HCI_9 버튼활성화 (2)\HCI_9 버튼활성화\HCI project_9\obj\Debug\HCI project_9.csproj.ResolveComReference.cache
+C:\Users\한웅재\Desktop\HCI project_9 파일\조원 프로젝트\HCI_9 버튼활성화 (2)\HCI_9 버튼활성화\HCI project_9\obj\Debug\WindowsFormsApp1.Calculator.resources
+C:\Users\한웅재\Desktop\HCI project_9 파일\조원 프로젝트\HCI_9 버튼활성화 (2)\HCI_9 버튼활성화\HCI project_9\obj\Debug\HCI_project_9.Font_Name_Print.resources
+C:\Users\한웅재\Desktop\HCI project_9 파일\조원 프로젝트\HCI_9 버튼활성화 (2)\HCI_9 버튼활성화\HCI project_9\obj\Debug\HCI_project_9.Form1.resources
+C:\Users\한웅재\Desktop\HCI project_9 파일\조원 프로젝트\HCI_9 버튼활성화 (2)\HCI_9 버튼활성화\HCI project_9\obj\Debug\HCI_project_9.HyperLink.resources
+C:\Users\한웅재\Desktop\HCI project_9 파일\조원 프로젝트\HCI_9 버튼활성화 (2)\HCI_9 버튼활성화\HCI project_9\obj\Debug\HCI_project_9.Properties.Resources.resources
+C:\Users\한웅재\Desktop\HCI project_9 파일\조원 프로젝트\HCI_9 버튼활성화 (2)\HCI_9 버튼활성화\HCI project_9\obj\Debug\_0522.도움말_보기.resources
+C:\Users\한웅재\Desktop\HCI project_9 파일\조원 프로젝트\HCI_9 버튼활성화 (2)\HCI_9 버튼활성화\HCI project_9\obj\Debug\_0522.도움말_서식.resources
+C:\Users\한웅재\Desktop\HCI project_9 파일\조원 프로젝트\HCI_9 버튼활성화 (2)\HCI_9 버튼활성화\HCI project_9\obj\Debug\_0522.도움말_입력.resources
+C:\Users\한웅재\Desktop\HCI project_9 파일\조원 프로젝트\HCI_9 버튼활성화 (2)\HCI_9 버튼활성화\HCI project_9\obj\Debug\_0522.도움말_파일.resources
+C:\Users\한웅재\Desktop\HCI project_9 파일\조원 프로젝트\HCI_9 버튼활성화 (2)\HCI_9 버튼활성화\HCI project_9\obj\Debug\_0522.도움말_편집.resources
+C:\Users\한웅재\Desktop\HCI project_9 파일\조원 프로젝트\HCI_9 버튼활성화 (2)\HCI_9 버튼활성화\HCI project_9\obj\Debug\_0522.도움말.resources
+C:\Users\한웅재\Desktop\HCI project_9 파일\조원 프로젝트\HCI_9 버튼활성화 (2)\HCI_9 버튼활성화\HCI project_9\obj\Debug\_0522.메모장정보.resources
+C:\Users\한웅재\Desktop\HCI project_9 파일\조원 프로젝트\HCI_9 버튼활성화 (2)\HCI_9 버튼활성화\HCI project_9\obj\Debug\HCI_project_9.바꾸기.resources
+C:\Users\한웅재\Desktop\HCI project_9 파일\조원 프로젝트\HCI_9 버튼활성화 (2)\HCI_9 버튼활성화\HCI project_9\obj\Debug\_0522.찾기.resources
+C:\Users\한웅재\Desktop\HCI project_9 파일\조원 프로젝트\HCI_9 버튼활성화 (2)\HCI_9 버튼활성화\HCI project_9\obj\Debug\HCI project_9.csproj.GenerateResource.cache
+C:\Users\한웅재\Desktop\HCI project_9 파일\조원 프로젝트\HCI_9 버튼활성화 (2)\HCI_9 버튼활성화\HCI project_9\obj\Debug\HCI project_9.csproj.CoreCompileInputs.cache
+C:\Users\한웅재\Desktop\HCI project_9 파일\조원 프로젝트\HCI_9 버튼활성화 (2)\HCI_9 버튼활성화\HCI project_9\obj\Debug\HCI project_9.csproj.CopyComplete
+C:\Users\한웅재\Desktop\HCI project_9 파일\조원 프로젝트\HCI_9 버튼활성화 (2)\HCI_9 버튼활성화\HCI project_9\obj\Debug\HCI project_9.exe
+C:\Users\한웅재\Desktop\HCI project_9 파일\조원 프로젝트\HCI_9 버튼활성화 (2)\HCI_9 버튼활성화\HCI project_9\obj\Debug\HCI project_9.pdb
+C:\Users\한웅재\Desktop\HCI project_9 파일\조원 프로젝트\HCI_9 버튼활성화 (2) - 수정 후\HCI_9 버튼활성화\HCI project_9\bin\Debug\HCI project_9.exe.config
+C:\Users\한웅재\Desktop\HCI project_9 파일\조원 프로젝트\HCI_9 버튼활성화 (2) - 수정 후\HCI_9 버튼활성화\HCI project_9\bin\Debug\HCI project_9.exe
+C:\Users\한웅재\Desktop\HCI project_9 파일\조원 프로젝트\HCI_9 버튼활성화 (2) - 수정 후\HCI_9 버튼활성화\HCI project_9\bin\Debug\HCI project_9.pdb
+C:\Users\한웅재\Desktop\HCI project_9 파일\조원 프로젝트\HCI_9 버튼활성화 (2) - 수정 후\HCI_9 버튼활성화\HCI project_9\bin\Debug\WebDriver.dll
+C:\Users\한웅재\Desktop\HCI project_9 파일\조원 프로젝트\HCI_9 버튼활성화 (2) - 수정 후\HCI_9 버튼활성화\HCI project_9\bin\Debug\ColorPicker.pdb
+C:\Users\한웅재\Desktop\HCI project_9 파일\조원 프로젝트\HCI_9 버튼활성화 (2) - 수정 후\HCI_9 버튼활성화\HCI project_9\bin\Debug\WebDriver.xml
+C:\Users\한웅재\Desktop\HCI project_9 파일\조원 프로젝트\HCI_9 버튼활성화 (2) - 수정 후\HCI_9 버튼활성화\HCI project_9\obj\Debug\HCI project_9.csprojAssemblyReference.cache
+C:\Users\한웅재\Desktop\HCI project_9 파일\조원 프로젝트\HCI_9 버튼활성화 (2) - 수정 후\HCI_9 버튼활성화\HCI project_9\obj\Debug\Interop.Accessibility.dll
+C:\Users\한웅재\Desktop\HCI project_9 파일\조원 프로젝트\HCI_9 버튼활성화 (2) - 수정 후\HCI_9 버튼활성화\HCI project_9\obj\Debug\HCI project_9.csproj.ResolveComReference.cache
+C:\Users\한웅재\Desktop\HCI project_9 파일\조원 프로젝트\HCI_9 버튼활성화 (2) - 수정 후\HCI_9 버튼활성화\HCI project_9\obj\Debug\WindowsFormsApp1.Calculator.resources
+C:\Users\한웅재\Desktop\HCI project_9 파일\조원 프로젝트\HCI_9 버튼활성화 (2) - 수정 후\HCI_9 버튼활성화\HCI project_9\obj\Debug\HCI_project_9.Font_Name_Print.resources
+C:\Users\한웅재\Desktop\HCI project_9 파일\조원 프로젝트\HCI_9 버튼활성화 (2) - 수정 후\HCI_9 버튼활성화\HCI project_9\obj\Debug\HCI_project_9.Form1.resources
+C:\Users\한웅재\Desktop\HCI project_9 파일\조원 프로젝트\HCI_9 버튼활성화 (2) - 수정 후\HCI_9 버튼활성화\HCI project_9\obj\Debug\HCI_project_9.HyperLink.resources
+C:\Users\한웅재\Desktop\HCI project_9 파일\조원 프로젝트\HCI_9 버튼활성화 (2) - 수정 후\HCI_9 버튼활성화\HCI project_9\obj\Debug\HCI_project_9.Properties.Resources.resources
+C:\Users\한웅재\Desktop\HCI project_9 파일\조원 프로젝트\HCI_9 버튼활성화 (2) - 수정 후\HCI_9 버튼활성화\HCI project_9\obj\Debug\_0522.도움말_보기.resources
+C:\Users\한웅재\Desktop\HCI project_9 파일\조원 프로젝트\HCI_9 버튼활성화 (2) - 수정 후\HCI_9 버튼활성화\HCI project_9\obj\Debug\_0522.도움말_서식.resources
+C:\Users\한웅재\Desktop\HCI project_9 파일\조원 프로젝트\HCI_9 버튼활성화 (2) - 수정 후\HCI_9 버튼활성화\HCI project_9\obj\Debug\_0522.도움말_입력.resources
+C:\Users\한웅재\Desktop\HCI project_9 파일\조원 프로젝트\HCI_9 버튼활성화 (2) - 수정 후\HCI_9 버튼활성화\HCI project_9\obj\Debug\_0522.도움말_파일.resources
+C:\Users\한웅재\Desktop\HCI project_9 파일\조원 프로젝트\HCI_9 버튼활성화 (2) - 수정 후\HCI_9 버튼활성화\HCI project_9\obj\Debug\_0522.도움말_편집.resources
+C:\Users\한웅재\Desktop\HCI project_9 파일\조원 프로젝트\HCI_9 버튼활성화 (2) - 수정 후\HCI_9 버튼활성화\HCI project_9\obj\Debug\_0522.도움말.resources
+C:\Users\한웅재\Desktop\HCI project_9 파일\조원 프로젝트\HCI_9 버튼활성화 (2) - 수정 후\HCI_9 버튼활성화\HCI project_9\obj\Debug\_0522.메모장정보.resources
+C:\Users\한웅재\Desktop\HCI project_9 파일\조원 프로젝트\HCI_9 버튼활성화 (2) - 수정 후\HCI_9 버튼활성화\HCI project_9\obj\Debug\HCI_project_9.바꾸기.resources
+C:\Users\한웅재\Desktop\HCI project_9 파일\조원 프로젝트\HCI_9 버튼활성화 (2) - 수정 후\HCI_9 버튼활성화\HCI project_9\obj\Debug\_0522.찾기.resources
+C:\Users\한웅재\Desktop\HCI project_9 파일\조원 프로젝트\HCI_9 버튼활성화 (2) - 수정 후\HCI_9 버튼활성화\HCI project_9\obj\Debug\HCI project_9.csproj.GenerateResource.cache
+C:\Users\한웅재\Desktop\HCI project_9 파일\조원 프로젝트\HCI_9 버튼활성화 (2) - 수정 후\HCI_9 버튼활성화\HCI project_9\obj\Debug\HCI project_9.csproj.CoreCompileInputs.cache
+C:\Users\한웅재\Desktop\HCI project_9 파일\조원 프로젝트\HCI_9 버튼활성화 (2) - 수정 후\HCI_9 버튼활성화\HCI project_9\obj\Debug\HCI project_9.csproj.CopyComplete
+C:\Users\한웅재\Desktop\HCI project_9 파일\조원 프로젝트\HCI_9 버튼활성화 (2) - 수정 후\HCI_9 버튼활성화\HCI project_9\obj\Debug\HCI project_9.exe
+C:\Users\한웅재\Desktop\HCI project_9 파일\조원 프로젝트\HCI_9 버튼활성화 (2) - 수정 후\HCI_9 버튼활성화\HCI project_9\obj\Debug\HCI project_9.pdb
+C:\Users\gudwn\source\repos\HCI_9 편집 아이콘 삽입\HCI project_9\bin\Debug\HCI project_9.exe.config
+C:\Users\gudwn\source\repos\HCI_9 편집 아이콘 삽입\HCI project_9\bin\Debug\HCI project_9.exe
+C:\Users\gudwn\source\repos\HCI_9 편집 아이콘 삽입\HCI project_9\bin\Debug\HCI project_9.pdb
+C:\Users\gudwn\source\repos\HCI_9 편집 아이콘 삽입\HCI project_9\bin\Debug\WebDriver.dll
+C:\Users\gudwn\source\repos\HCI_9 편집 아이콘 삽입\HCI project_9\bin\Debug\ColorPicker.pdb
+C:\Users\gudwn\source\repos\HCI_9 편집 아이콘 삽입\HCI project_9\bin\Debug\WebDriver.xml
+C:\Users\gudwn\source\repos\HCI_9 편집 아이콘 삽입\HCI project_9\obj\Debug\HCI project_9.csprojAssemblyReference.cache
+C:\Users\gudwn\source\repos\HCI_9 편집 아이콘 삽입\HCI project_9\obj\Debug\Interop.Accessibility.dll
+C:\Users\gudwn\source\repos\HCI_9 편집 아이콘 삽입\HCI project_9\obj\Debug\HCI project_9.csproj.ResolveComReference.cache
+C:\Users\gudwn\source\repos\HCI_9 편집 아이콘 삽입\HCI project_9\obj\Debug\WindowsFormsApp1.Calculator.resources
+C:\Users\gudwn\source\repos\HCI_9 편집 아이콘 삽입\HCI project_9\obj\Debug\HCI_project_9.Font_Name_Print.resources
+C:\Users\gudwn\source\repos\HCI_9 편집 아이콘 삽입\HCI project_9\obj\Debug\HCI_project_9.Form1.resources
+C:\Users\gudwn\source\repos\HCI_9 편집 아이콘 삽입\HCI project_9\obj\Debug\HCI_project_9.HyperLink.resources
+C:\Users\gudwn\source\repos\HCI_9 편집 아이콘 삽입\HCI project_9\obj\Debug\HCI_project_9.Properties.Resources.resources
+C:\Users\gudwn\source\repos\HCI_9 편집 아이콘 삽입\HCI project_9\obj\Debug\_0522.도움말_보기.resources
+C:\Users\gudwn\source\repos\HCI_9 편집 아이콘 삽입\HCI project_9\obj\Debug\_0522.도움말_서식.resources
+C:\Users\gudwn\source\repos\HCI_9 편집 아이콘 삽입\HCI project_9\obj\Debug\_0522.도움말_입력.resources
+C:\Users\gudwn\source\repos\HCI_9 편집 아이콘 삽입\HCI project_9\obj\Debug\_0522.도움말_파일.resources
+C:\Users\gudwn\source\repos\HCI_9 편집 아이콘 삽입\HCI project_9\obj\Debug\_0522.도움말_편집.resources
+C:\Users\gudwn\source\repos\HCI_9 편집 아이콘 삽입\HCI project_9\obj\Debug\_0522.도움말.resources
+C:\Users\gudwn\source\repos\HCI_9 편집 아이콘 삽입\HCI project_9\obj\Debug\_0522.메모장정보.resources
+C:\Users\gudwn\source\repos\HCI_9 편집 아이콘 삽입\HCI project_9\obj\Debug\HCI_project_9.바꾸기.resources
+C:\Users\gudwn\source\repos\HCI_9 편집 아이콘 삽입\HCI project_9\obj\Debug\_0522.찾기.resources
+C:\Users\gudwn\source\repos\HCI_9 편집 아이콘 삽입\HCI project_9\obj\Debug\HCI project_9.csproj.GenerateResource.cache
+C:\Users\gudwn\source\repos\HCI_9 편집 아이콘 삽입\HCI project_9\obj\Debug\HCI project_9.csproj.CoreCompileInputs.cache
+C:\Users\gudwn\source\repos\HCI_9 편집 아이콘 삽입\HCI project_9\obj\Debug\HCI project_9.csproj.CopyComplete
+C:\Users\gudwn\source\repos\HCI_9 편집 아이콘 삽입\HCI project_9\obj\Debug\HCI project_9.exe
+C:\Users\gudwn\source\repos\HCI_9 편집 아이콘 삽입\HCI project_9\obj\Debug\HCI project_9.pdb
+C:\Users\wnslf\OneDrive\바탕 화면\새 폴더 (2)\HCI_9 편집 아이콘 삽입\HCI project_9\bin\Debug\HCI project_9.exe.config
+C:\Users\wnslf\OneDrive\바탕 화면\새 폴더 (2)\HCI_9 편집 아이콘 삽입\HCI project_9\bin\Debug\HCI project_9.exe
+C:\Users\wnslf\OneDrive\바탕 화면\새 폴더 (2)\HCI_9 편집 아이콘 삽입\HCI project_9\bin\Debug\HCI project_9.pdb
+C:\Users\wnslf\OneDrive\바탕 화면\새 폴더 (2)\HCI_9 편집 아이콘 삽입\HCI project_9\bin\Debug\WebDriver.dll
+C:\Users\wnslf\OneDrive\바탕 화면\새 폴더 (2)\HCI_9 편집 아이콘 삽입\HCI project_9\bin\Debug\ColorPicker.pdb
+C:\Users\wnslf\OneDrive\바탕 화면\새 폴더 (2)\HCI_9 편집 아이콘 삽입\HCI project_9\bin\Debug\WebDriver.xml
+C:\Users\wnslf\OneDrive\바탕 화면\새 폴더 (2)\HCI_9 편집 아이콘 삽입\HCI project_9\obj\Debug\HCI project_9.csprojAssemblyReference.cache
+C:\Users\wnslf\OneDrive\바탕 화면\새 폴더 (2)\HCI_9 편집 아이콘 삽입\HCI project_9\obj\Debug\Interop.Accessibility.dll
+C:\Users\wnslf\OneDrive\바탕 화면\새 폴더 (2)\HCI_9 편집 아이콘 삽입\HCI project_9\obj\Debug\HCI project_9.csproj.ResolveComReference.cache
+C:\Users\wnslf\OneDrive\바탕 화면\새 폴더 (2)\HCI_9 편집 아이콘 삽입\HCI project_9\obj\Debug\WindowsFormsApp1.Calculator.resources
+C:\Users\wnslf\OneDrive\바탕 화면\새 폴더 (2)\HCI_9 편집 아이콘 삽입\HCI project_9\obj\Debug\HCI_project_9.Font_Name_Print.resources
+C:\Users\wnslf\OneDrive\바탕 화면\새 폴더 (2)\HCI_9 편집 아이콘 삽입\HCI project_9\obj\Debug\HCI_project_9.Form1.resources
+C:\Users\wnslf\OneDrive\바탕 화면\새 폴더 (2)\HCI_9 편집 아이콘 삽입\HCI project_9\obj\Debug\HCI_project_9.HyperLink.resources
+C:\Users\wnslf\OneDrive\바탕 화면\새 폴더 (2)\HCI_9 편집 아이콘 삽입\HCI project_9\obj\Debug\HCI_project_9.Properties.Resources.resources
+C:\Users\wnslf\OneDrive\바탕 화면\새 폴더 (2)\HCI_9 편집 아이콘 삽입\HCI project_9\obj\Debug\_0522.도움말_보기.resources
+C:\Users\wnslf\OneDrive\바탕 화면\새 폴더 (2)\HCI_9 편집 아이콘 삽입\HCI project_9\obj\Debug\_0522.도움말_서식.resources
+C:\Users\wnslf\OneDrive\바탕 화면\새 폴더 (2)\HCI_9 편집 아이콘 삽입\HCI project_9\obj\Debug\_0522.도움말_입력.resources
+C:\Users\wnslf\OneDrive\바탕 화면\새 폴더 (2)\HCI_9 편집 아이콘 삽입\HCI project_9\obj\Debug\_0522.도움말_파일.resources
+C:\Users\wnslf\OneDrive\바탕 화면\새 폴더 (2)\HCI_9 편집 아이콘 삽입\HCI project_9\obj\Debug\_0522.도움말_편집.resources
+C:\Users\wnslf\OneDrive\바탕 화면\새 폴더 (2)\HCI_9 편집 아이콘 삽입\HCI project_9\obj\Debug\_0522.도움말.resources
+C:\Users\wnslf\OneDrive\바탕 화면\새 폴더 (2)\HCI_9 편집 아이콘 삽입\HCI project_9\obj\Debug\_0522.메모장정보.resources
+C:\Users\wnslf\OneDrive\바탕 화면\새 폴더 (2)\HCI_9 편집 아이콘 삽입\HCI project_9\obj\Debug\HCI_project_9.바꾸기.resources
+C:\Users\wnslf\OneDrive\바탕 화면\새 폴더 (2)\HCI_9 편집 아이콘 삽입\HCI project_9\obj\Debug\_0522.찾기.resources
+C:\Users\wnslf\OneDrive\바탕 화면\새 폴더 (2)\HCI_9 편집 아이콘 삽입\HCI project_9\obj\Debug\HCI project_9.csproj.GenerateResource.cache
+C:\Users\wnslf\OneDrive\바탕 화면\새 폴더 (2)\HCI_9 편집 아이콘 삽입\HCI project_9\obj\Debug\HCI project_9.csproj.CoreCompileInputs.cache
+C:\Users\wnslf\OneDrive\바탕 화면\새 폴더 (2)\HCI_9 편집 아이콘 삽입\HCI project_9\obj\Debug\HCI project_9.csproj.CopyComplete
+C:\Users\wnslf\OneDrive\바탕 화면\새 폴더 (2)\HCI_9 편집 아이콘 삽입\HCI project_9\obj\Debug\HCI project_9.exe
+C:\Users\wnslf\OneDrive\바탕 화면\새 폴더 (2)\HCI_9 편집 아이콘 삽입\HCI project_9\obj\Debug\HCI project_9.pdb
+C:\Users\한웅재\Desktop\HCI project_9 파일\조원 프로젝트\최신)HCI_9\HCI_9\HCI project_9\bin\Debug\HCI project_9.exe.config
+C:\Users\한웅재\Desktop\HCI project_9 파일\조원 프로젝트\최신)HCI_9\HCI_9\HCI project_9\bin\Debug\HCI project_9.exe
+C:\Users\한웅재\Desktop\HCI project_9 파일\조원 프로젝트\최신)HCI_9\HCI_9\HCI project_9\bin\Debug\HCI project_9.pdb
+C:\Users\한웅재\Desktop\HCI project_9 파일\조원 프로젝트\최신)HCI_9\HCI_9\HCI project_9\bin\Debug\WebDriver.dll
+C:\Users\한웅재\Desktop\HCI project_9 파일\조원 프로젝트\최신)HCI_9\HCI_9\HCI project_9\bin\Debug\ColorPicker.pdb
+C:\Users\한웅재\Desktop\HCI project_9 파일\조원 프로젝트\최신)HCI_9\HCI_9\HCI project_9\bin\Debug\WebDriver.xml
+C:\Users\한웅재\Desktop\HCI project_9 파일\조원 프로젝트\최신)HCI_9\HCI_9\HCI project_9\obj\Debug\HCI project_9.csprojAssemblyReference.cache
+C:\Users\한웅재\Desktop\HCI project_9 파일\조원 프로젝트\최신)HCI_9\HCI_9\HCI project_9\obj\Debug\Interop.Accessibility.dll
+C:\Users\한웅재\Desktop\HCI project_9 파일\조원 프로젝트\최신)HCI_9\HCI_9\HCI project_9\obj\Debug\HCI project_9.csproj.ResolveComReference.cache
+C:\Users\한웅재\Desktop\HCI project_9 파일\조원 프로젝트\최신)HCI_9\HCI_9\HCI project_9\obj\Debug\WindowsFormsApp1.Calculator.resources
+C:\Users\한웅재\Desktop\HCI project_9 파일\조원 프로젝트\최신)HCI_9\HCI_9\HCI project_9\obj\Debug\HCI_project_9.Font_Name_Print.resources
+C:\Users\한웅재\Desktop\HCI project_9 파일\조원 프로젝트\최신)HCI_9\HCI_9\HCI project_9\obj\Debug\HCI_project_9.Form1.resources
+C:\Users\한웅재\Desktop\HCI project_9 파일\조원 프로젝트\최신)HCI_9\HCI_9\HCI project_9\obj\Debug\HCI_project_9.HyperLink.resources
+C:\Users\한웅재\Desktop\HCI project_9 파일\조원 프로젝트\최신)HCI_9\HCI_9\HCI project_9\obj\Debug\HCI_project_9.Properties.Resources.resources
+C:\Users\한웅재\Desktop\HCI project_9 파일\조원 프로젝트\최신)HCI_9\HCI_9\HCI project_9\obj\Debug\_0522.도움말_보기.resources
+C:\Users\한웅재\Desktop\HCI project_9 파일\조원 프로젝트\최신)HCI_9\HCI_9\HCI project_9\obj\Debug\_0522.도움말_서식.resources
+C:\Users\한웅재\Desktop\HCI project_9 파일\조원 프로젝트\최신)HCI_9\HCI_9\HCI project_9\obj\Debug\_0522.도움말_입력.resources
+C:\Users\한웅재\Desktop\HCI project_9 파일\조원 프로젝트\최신)HCI_9\HCI_9\HCI project_9\obj\Debug\_0522.도움말_파일.resources
+C:\Users\한웅재\Desktop\HCI project_9 파일\조원 프로젝트\최신)HCI_9\HCI_9\HCI project_9\obj\Debug\_0522.도움말_편집.resources
+C:\Users\한웅재\Desktop\HCI project_9 파일\조원 프로젝트\최신)HCI_9\HCI_9\HCI project_9\obj\Debug\_0522.도움말.resources
+C:\Users\한웅재\Desktop\HCI project_9 파일\조원 프로젝트\최신)HCI_9\HCI_9\HCI project_9\obj\Debug\_0522.메모장정보.resources
+C:\Users\한웅재\Desktop\HCI project_9 파일\조원 프로젝트\최신)HCI_9\HCI_9\HCI project_9\obj\Debug\HCI_project_9.바꾸기.resources
+C:\Users\한웅재\Desktop\HCI project_9 파일\조원 프로젝트\최신)HCI_9\HCI_9\HCI project_9\obj\Debug\_0522.찾기.resources
+C:\Users\한웅재\Desktop\HCI project_9 파일\조원 프로젝트\최신)HCI_9\HCI_9\HCI project_9\obj\Debug\HCI project_9.csproj.GenerateResource.cache
+C:\Users\한웅재\Desktop\HCI project_9 파일\조원 프로젝트\최신)HCI_9\HCI_9\HCI project_9\obj\Debug\HCI project_9.csproj.CoreCompileInputs.cache
+C:\Users\한웅재\Desktop\HCI project_9 파일\조원 프로젝트\최신)HCI_9\HCI_9\HCI project_9\obj\Debug\HCI project_9.csproj.CopyComplete
+C:\Users\한웅재\Desktop\HCI project_9 파일\조원 프로젝트\최신)HCI_9\HCI_9\HCI project_9\obj\Debug\HCI project_9.exe
+C:\Users\한웅재\Desktop\HCI project_9 파일\조원 프로젝트\최신)HCI_9\HCI_9\HCI project_9\obj\Debug\HCI project_9.pdb
+C:\Users\한웅재\Desktop\HCI project_9 파일\조원 프로젝트\최종본3)HCI_9\HCI_9\HCI project_9\bin\Debug\HCI project_9.exe.config
+C:\Users\한웅재\Desktop\HCI project_9 파일\조원 프로젝트\최종본3)HCI_9\HCI_9\HCI project_9\bin\Debug\HCI project_9.exe
+C:\Users\한웅재\Desktop\HCI project_9 파일\조원 프로젝트\최종본3)HCI_9\HCI_9\HCI project_9\bin\Debug\HCI project_9.pdb
+C:\Users\한웅재\Desktop\HCI project_9 파일\조원 프로젝트\최종본3)HCI_9\HCI_9\HCI project_9\bin\Debug\WebDriver.dll
+C:\Users\한웅재\Desktop\HCI project_9 파일\조원 프로젝트\최종본3)HCI_9\HCI_9\HCI project_9\bin\Debug\ColorPicker.pdb
+C:\Users\한웅재\Desktop\HCI project_9 파일\조원 프로젝트\최종본3)HCI_9\HCI_9\HCI project_9\bin\Debug\WebDriver.xml
+C:\Users\한웅재\Desktop\HCI project_9 파일\조원 프로젝트\최종본3)HCI_9\HCI_9\HCI project_9\obj\Debug\HCI project_9.csprojAssemblyReference.cache
+C:\Users\한웅재\Desktop\HCI project_9 파일\조원 프로젝트\최종본3)HCI_9\HCI_9\HCI project_9\obj\Debug\Interop.Accessibility.dll
+C:\Users\한웅재\Desktop\HCI project_9 파일\조원 프로젝트\최종본3)HCI_9\HCI_9\HCI project_9\obj\Debug\HCI project_9.csproj.ResolveComReference.cache
+C:\Users\한웅재\Desktop\HCI project_9 파일\조원 프로젝트\최종본3)HCI_9\HCI_9\HCI project_9\obj\Debug\WindowsFormsApp1.Calculator.resources
+C:\Users\한웅재\Desktop\HCI project_9 파일\조원 프로젝트\최종본3)HCI_9\HCI_9\HCI project_9\obj\Debug\HCI_project_9.Form1.resources
+C:\Users\한웅재\Desktop\HCI project_9 파일\조원 프로젝트\최종본3)HCI_9\HCI_9\HCI project_9\obj\Debug\HCI_project_9.HyperLink.resources
+C:\Users\한웅재\Desktop\HCI project_9 파일\조원 프로젝트\최종본3)HCI_9\HCI_9\HCI project_9\obj\Debug\HCI_project_9.Properties.Resources.resources
+C:\Users\한웅재\Desktop\HCI project_9 파일\조원 프로젝트\최종본3)HCI_9\HCI_9\HCI project_9\obj\Debug\_0522.도움말_보기.resources
+C:\Users\한웅재\Desktop\HCI project_9 파일\조원 프로젝트\최종본3)HCI_9\HCI_9\HCI project_9\obj\Debug\_0522.도움말_서식.resources
+C:\Users\한웅재\Desktop\HCI project_9 파일\조원 프로젝트\최종본3)HCI_9\HCI_9\HCI project_9\obj\Debug\_0522.도움말_입력.resources
+C:\Users\한웅재\Desktop\HCI project_9 파일\조원 프로젝트\최종본3)HCI_9\HCI_9\HCI project_9\obj\Debug\_0522.도움말_파일.resources
+C:\Users\한웅재\Desktop\HCI project_9 파일\조원 프로젝트\최종본3)HCI_9\HCI_9\HCI project_9\obj\Debug\_0522.도움말_편집.resources
+C:\Users\한웅재\Desktop\HCI project_9 파일\조원 프로젝트\최종본3)HCI_9\HCI_9\HCI project_9\obj\Debug\_0522.도움말.resources
+C:\Users\한웅재\Desktop\HCI project_9 파일\조원 프로젝트\최종본3)HCI_9\HCI_9\HCI project_9\obj\Debug\_0522.메모장정보.resources
+C:\Users\한웅재\Desktop\HCI project_9 파일\조원 프로젝트\최종본3)HCI_9\HCI_9\HCI project_9\obj\Debug\HCI_project_9.바꾸기.resources
+C:\Users\한웅재\Desktop\HCI project_9 파일\조원 프로젝트\최종본3)HCI_9\HCI_9\HCI project_9\obj\Debug\_0522.찾기.resources
+C:\Users\한웅재\Desktop\HCI project_9 파일\조원 프로젝트\최종본3)HCI_9\HCI_9\HCI project_9\obj\Debug\HCI project_9.csproj.GenerateResource.cache
+C:\Users\한웅재\Desktop\HCI project_9 파일\조원 프로젝트\최종본3)HCI_9\HCI_9\HCI project_9\obj\Debug\HCI project_9.csproj.CoreCompileInputs.cache
+C:\Users\한웅재\Desktop\HCI project_9 파일\조원 프로젝트\최종본3)HCI_9\HCI_9\HCI project_9\obj\Debug\HCI project_9.csproj.CopyComplete
+C:\Users\한웅재\Desktop\HCI project_9 파일\조원 프로젝트\최종본3)HCI_9\HCI_9\HCI project_9\obj\Debug\HCI project_9.exe
+C:\Users\한웅재\Desktop\HCI project_9 파일\조원 프로젝트\최종본3)HCI_9\HCI_9\HCI project_9\obj\Debug\HCI project_9.pdb
+C:\Users\gudwn\source\repos\HCI_9_최종\HCI project_9\bin\Debug\HCI project_9.exe.config
+C:\Users\gudwn\source\repos\HCI_9_최종\HCI project_9\bin\Debug\HCI project_9.exe
+C:\Users\gudwn\source\repos\HCI_9_최종\HCI project_9\bin\Debug\HCI project_9.pdb
+C:\Users\gudwn\source\repos\HCI_9_최종\HCI project_9\bin\Debug\WebDriver.dll
+C:\Users\gudwn\source\repos\HCI_9_최종\HCI project_9\bin\Debug\ColorPicker.pdb
+C:\Users\gudwn\source\repos\HCI_9_최종\HCI project_9\bin\Debug\WebDriver.xml
+C:\Users\gudwn\source\repos\HCI_9_최종\HCI project_9\obj\Debug\HCI project_9.csprojAssemblyReference.cache
+C:\Users\gudwn\source\repos\HCI_9_최종\HCI project_9\obj\Debug\Interop.Accessibility.dll
+C:\Users\gudwn\source\repos\HCI_9_최종\HCI project_9\obj\Debug\HCI project_9.csproj.ResolveComReference.cache
+C:\Users\gudwn\source\repos\HCI_9_최종\HCI project_9\obj\Debug\WindowsFormsApp1.Calculator.resources
+C:\Users\gudwn\source\repos\HCI_9_최종\HCI project_9\obj\Debug\HCI_project_9.Form1.resources
+C:\Users\gudwn\source\repos\HCI_9_최종\HCI project_9\obj\Debug\HCI_project_9.HyperLink.resources
+C:\Users\gudwn\source\repos\HCI_9_최종\HCI project_9\obj\Debug\HCI_project_9.Properties.Resources.resources
+C:\Users\gudwn\source\repos\HCI_9_최종\HCI project_9\obj\Debug\_0522.도움말_보기.resources
+C:\Users\gudwn\source\repos\HCI_9_최종\HCI project_9\obj\Debug\_0522.도움말_서식.resources
+C:\Users\gudwn\source\repos\HCI_9_최종\HCI project_9\obj\Debug\_0522.도움말_입력.resources
+C:\Users\gudwn\source\repos\HCI_9_최종\HCI project_9\obj\Debug\_0522.도움말_파일.resources
+C:\Users\gudwn\source\repos\HCI_9_최종\HCI project_9\obj\Debug\_0522.도움말_편집.resources
+C:\Users\gudwn\source\repos\HCI_9_최종\HCI project_9\obj\Debug\_0522.도움말.resources
+C:\Users\gudwn\source\repos\HCI_9_최종\HCI project_9\obj\Debug\_0522.메모장정보.resources
+C:\Users\gudwn\source\repos\HCI_9_최종\HCI project_9\obj\Debug\HCI_project_9.바꾸기.resources
+C:\Users\gudwn\source\repos\HCI_9_최종\HCI project_9\obj\Debug\_0522.찾기.resources
+C:\Users\gudwn\source\repos\HCI_9_최종\HCI project_9\obj\Debug\HCI project_9.csproj.GenerateResource.cache
+C:\Users\gudwn\source\repos\HCI_9_최종\HCI project_9\obj\Debug\HCI project_9.csproj.CoreCompileInputs.cache
+C:\Users\gudwn\source\repos\HCI_9_최종\HCI project_9\obj\Debug\HCI project_9.csproj.CopyComplete
+C:\Users\gudwn\source\repos\HCI_9_최종\HCI project_9\obj\Debug\HCI project_9.exe
+C:\Users\gudwn\source\repos\HCI_9_최종\HCI project_9\obj\Debug\HCI project_9.pdb
+C:\Users\gudwn\source\repos\HCI_9조_TextEditor\HCI project_9\bin\Debug\HCI project_9.exe.config
+C:\Users\gudwn\source\repos\HCI_9조_TextEditor\HCI project_9\bin\Debug\HCI project_9.exe
+C:\Users\gudwn\source\repos\HCI_9조_TextEditor\HCI project_9\bin\Debug\HCI project_9.pdb
+C:\Users\gudwn\source\repos\HCI_9조_TextEditor\HCI project_9\bin\Debug\WebDriver.dll
+C:\Users\gudwn\source\repos\HCI_9조_TextEditor\HCI project_9\bin\Debug\ColorPicker.pdb
+C:\Users\gudwn\source\repos\HCI_9조_TextEditor\HCI project_9\bin\Debug\WebDriver.xml
+C:\Users\gudwn\source\repos\HCI_9조_TextEditor\HCI project_9\obj\Debug\HCI project_9.csprojAssemblyReference.cache
+C:\Users\gudwn\source\repos\HCI_9조_TextEditor\HCI project_9\obj\Debug\Interop.Accessibility.dll
+C:\Users\gudwn\source\repos\HCI_9조_TextEditor\HCI project_9\obj\Debug\HCI project_9.csproj.ResolveComReference.cache
+C:\Users\gudwn\source\repos\HCI_9조_TextEditor\HCI project_9\obj\Debug\WindowsFormsApp1.Calculator.resources
+C:\Users\gudwn\source\repos\HCI_9조_TextEditor\HCI project_9\obj\Debug\HCI_project_9.Form1.resources
+C:\Users\gudwn\source\repos\HCI_9조_TextEditor\HCI project_9\obj\Debug\HCI_project_9.HyperLink.resources
+C:\Users\gudwn\source\repos\HCI_9조_TextEditor\HCI project_9\obj\Debug\HCI_project_9.Properties.Resources.resources
+C:\Users\gudwn\source\repos\HCI_9조_TextEditor\HCI project_9\obj\Debug\_0522.도움말_보기.resources
+C:\Users\gudwn\source\repos\HCI_9조_TextEditor\HCI project_9\obj\Debug\_0522.도움말_서식.resources
+C:\Users\gudwn\source\repos\HCI_9조_TextEditor\HCI project_9\obj\Debug\_0522.도움말_입력.resources
+C:\Users\gudwn\source\repos\HCI_9조_TextEditor\HCI project_9\obj\Debug\_0522.도움말_파일.resources
+C:\Users\gudwn\source\repos\HCI_9조_TextEditor\HCI project_9\obj\Debug\_0522.도움말_편집.resources
+C:\Users\gudwn\source\repos\HCI_9조_TextEditor\HCI project_9\obj\Debug\_0522.도움말.resources
+C:\Users\gudwn\source\repos\HCI_9조_TextEditor\HCI project_9\obj\Debug\_0522.메모장정보.resources
+C:\Users\gudwn\source\repos\HCI_9조_TextEditor\HCI project_9\obj\Debug\HCI_project_9.바꾸기.resources
+C:\Users\gudwn\source\repos\HCI_9조_TextEditor\HCI project_9\obj\Debug\_0522.찾기.resources
+C:\Users\gudwn\source\repos\HCI_9조_TextEditor\HCI project_9\obj\Debug\HCI project_9.csproj.GenerateResource.cache
+C:\Users\gudwn\source\repos\HCI_9조_TextEditor\HCI project_9\obj\Debug\HCI project_9.csproj.CoreCompileInputs.cache
+C:\Users\gudwn\source\repos\HCI_9조_TextEditor\HCI project_9\obj\Debug\HCI project_9.csproj.CopyComplete
+C:\Users\gudwn\source\repos\HCI_9조_TextEditor\HCI project_9\obj\Debug\HCI project_9.exe
+C:\Users\gudwn\source\repos\HCI_9조_TextEditor\HCI project_9\obj\Debug\HCI project_9.pdb
+C:\Users\한웅재\Desktop\HCI project_9 파일\완성본\HCI_9조_TextEditor\HCI_9조_TextEditor\HCI project_9\bin\Debug\HCI project_9.exe.config
+C:\Users\한웅재\Desktop\HCI project_9 파일\완성본\HCI_9조_TextEditor\HCI_9조_TextEditor\HCI project_9\bin\Debug\HCI project_9.exe
+C:\Users\한웅재\Desktop\HCI project_9 파일\완성본\HCI_9조_TextEditor\HCI_9조_TextEditor\HCI project_9\bin\Debug\HCI project_9.pdb
+C:\Users\한웅재\Desktop\HCI project_9 파일\완성본\HCI_9조_TextEditor\HCI_9조_TextEditor\HCI project_9\bin\Debug\WebDriver.dll
+C:\Users\한웅재\Desktop\HCI project_9 파일\완성본\HCI_9조_TextEditor\HCI_9조_TextEditor\HCI project_9\bin\Debug\ColorPicker.pdb
+C:\Users\한웅재\Desktop\HCI project_9 파일\완성본\HCI_9조_TextEditor\HCI_9조_TextEditor\HCI project_9\bin\Debug\WebDriver.xml
+C:\Users\한웅재\Desktop\HCI project_9 파일\완성본\HCI_9조_TextEditor\HCI_9조_TextEditor\HCI project_9\obj\Debug\HCI project_9.csprojAssemblyReference.cache
+C:\Users\한웅재\Desktop\HCI project_9 파일\완성본\HCI_9조_TextEditor\HCI_9조_TextEditor\HCI project_9\obj\Debug\Interop.Accessibility.dll
+C:\Users\한웅재\Desktop\HCI project_9 파일\완성본\HCI_9조_TextEditor\HCI_9조_TextEditor\HCI project_9\obj\Debug\HCI project_9.csproj.ResolveComReference.cache
+C:\Users\한웅재\Desktop\HCI project_9 파일\완성본\HCI_9조_TextEditor\HCI_9조_TextEditor\HCI project_9\obj\Debug\WindowsFormsApp1.Calculator.resources
+C:\Users\한웅재\Desktop\HCI project_9 파일\완성본\HCI_9조_TextEditor\HCI_9조_TextEditor\HCI project_9\obj\Debug\HCI_project_9.Form1.resources
+C:\Users\한웅재\Desktop\HCI project_9 파일\완성본\HCI_9조_TextEditor\HCI_9조_TextEditor\HCI project_9\obj\Debug\HCI_project_9.HyperLink.resources
+C:\Users\한웅재\Desktop\HCI project_9 파일\완성본\HCI_9조_TextEditor\HCI_9조_TextEditor\HCI project_9\obj\Debug\HCI_project_9.Properties.Resources.resources
+C:\Users\한웅재\Desktop\HCI project_9 파일\완성본\HCI_9조_TextEditor\HCI_9조_TextEditor\HCI project_9\obj\Debug\_0522.도움말_보기.resources
+C:\Users\한웅재\Desktop\HCI project_9 파일\완성본\HCI_9조_TextEditor\HCI_9조_TextEditor\HCI project_9\obj\Debug\_0522.도움말_서식.resources
+C:\Users\한웅재\Desktop\HCI project_9 파일\완성본\HCI_9조_TextEditor\HCI_9조_TextEditor\HCI project_9\obj\Debug\_0522.도움말_입력.resources
+C:\Users\한웅재\Desktop\HCI project_9 파일\완성본\HCI_9조_TextEditor\HCI_9조_TextEditor\HCI project_9\obj\Debug\_0522.도움말_파일.resources
+C:\Users\한웅재\Desktop\HCI project_9 파일\완성본\HCI_9조_TextEditor\HCI_9조_TextEditor\HCI project_9\obj\Debug\_0522.도움말_편집.resources
+C:\Users\한웅재\Desktop\HCI project_9 파일\완성본\HCI_9조_TextEditor\HCI_9조_TextEditor\HCI project_9\obj\Debug\_0522.도움말.resources
+C:\Users\한웅재\Desktop\HCI project_9 파일\완성본\HCI_9조_TextEditor\HCI_9조_TextEditor\HCI project_9\obj\Debug\_0522.메모장정보.resources
+C:\Users\한웅재\Desktop\HCI project_9 파일\완성본\HCI_9조_TextEditor\HCI_9조_TextEditor\HCI project_9\obj\Debug\HCI_project_9.바꾸기.resources
+C:\Users\한웅재\Desktop\HCI project_9 파일\완성본\HCI_9조_TextEditor\HCI_9조_TextEditor\HCI project_9\obj\Debug\_0522.찾기.resources
+C:\Users\한웅재\Desktop\HCI project_9 파일\완성본\HCI_9조_TextEditor\HCI_9조_TextEditor\HCI project_9\obj\Debug\HCI project_9.csproj.GenerateResource.cache
+C:\Users\한웅재\Desktop\HCI project_9 파일\완성본\HCI_9조_TextEditor\HCI_9조_TextEditor\HCI project_9\obj\Debug\HCI project_9.csproj.CoreCompileInputs.cache
+C:\Users\한웅재\Desktop\HCI project_9 파일\완성본\HCI_9조_TextEditor\HCI_9조_TextEditor\HCI project_9\obj\Debug\HCI project_9.csproj.CopyComplete
+C:\Users\한웅재\Desktop\HCI project_9 파일\완성본\HCI_9조_TextEditor\HCI_9조_TextEditor\HCI project_9\obj\Debug\HCI project_9.exe
+C:\Users\한웅재\Desktop\HCI project_9 파일\완성본\HCI_9조_TextEditor\HCI_9조_TextEditor\HCI project_9\obj\Debug\HCI project_9.pdb
+E:\대학교\2020년 3학년 1학기\HCI 프로그래밍\HCI project_9 파일\완성본\HCI_9조_TextEditor\HCI_9조_TextEditor\HCI project_9\bin\Debug\HCI project_9.exe.config
+E:\대학교\2020년 3학년 1학기\HCI 프로그래밍\HCI project_9 파일\완성본\HCI_9조_TextEditor\HCI_9조_TextEditor\HCI project_9\bin\Debug\HCI project_9.exe
+E:\대학교\2020년 3학년 1학기\HCI 프로그래밍\HCI project_9 파일\완성본\HCI_9조_TextEditor\HCI_9조_TextEditor\HCI project_9\bin\Debug\HCI project_9.pdb
+E:\대학교\2020년 3학년 1학기\HCI 프로그래밍\HCI project_9 파일\완성본\HCI_9조_TextEditor\HCI_9조_TextEditor\HCI project_9\bin\Debug\WebDriver.dll
+E:\대학교\2020년 3학년 1학기\HCI 프로그래밍\HCI project_9 파일\완성본\HCI_9조_TextEditor\HCI_9조_TextEditor\HCI project_9\bin\Debug\ColorPicker.pdb
+E:\대학교\2020년 3학년 1학기\HCI 프로그래밍\HCI project_9 파일\완성본\HCI_9조_TextEditor\HCI_9조_TextEditor\HCI project_9\bin\Debug\WebDriver.xml
+E:\대학교\2020년 3학년 1학기\HCI 프로그래밍\HCI project_9 파일\완성본\HCI_9조_TextEditor\HCI_9조_TextEditor\HCI project_9\obj\Debug\HCI project_9.csproj.AssemblyReference.cache
+E:\대학교\2020년 3학년 1학기\HCI 프로그래밍\HCI project_9 파일\완성본\HCI_9조_TextEditor\HCI_9조_TextEditor\HCI project_9\obj\Debug\Interop.Accessibility.dll
+E:\대학교\2020년 3학년 1학기\HCI 프로그래밍\HCI project_9 파일\완성본\HCI_9조_TextEditor\HCI_9조_TextEditor\HCI project_9\obj\Debug\HCI project_9.csproj.ResolveComReference.cache
+E:\대학교\2020년 3학년 1학기\HCI 프로그래밍\HCI project_9 파일\완성본\HCI_9조_TextEditor\HCI_9조_TextEditor\HCI project_9\obj\Debug\WindowsFormsApp1.Calculator.resources
+E:\대학교\2020년 3학년 1학기\HCI 프로그래밍\HCI project_9 파일\완성본\HCI_9조_TextEditor\HCI_9조_TextEditor\HCI project_9\obj\Debug\HCI_project_9.Form1.resources
+E:\대학교\2020년 3학년 1학기\HCI 프로그래밍\HCI project_9 파일\완성본\HCI_9조_TextEditor\HCI_9조_TextEditor\HCI project_9\obj\Debug\HCI_project_9.HyperLink.resources
+E:\대학교\2020년 3학년 1학기\HCI 프로그래밍\HCI project_9 파일\완성본\HCI_9조_TextEditor\HCI_9조_TextEditor\HCI project_9\obj\Debug\HCI_project_9.Properties.Resources.resources
+E:\대학교\2020년 3학년 1학기\HCI 프로그래밍\HCI project_9 파일\완성본\HCI_9조_TextEditor\HCI_9조_TextEditor\HCI project_9\obj\Debug\_0522.도움말_보기.resources
+E:\대학교\2020년 3학년 1학기\HCI 프로그래밍\HCI project_9 파일\완성본\HCI_9조_TextEditor\HCI_9조_TextEditor\HCI project_9\obj\Debug\_0522.도움말_서식.resources
+E:\대학교\2020년 3학년 1학기\HCI 프로그래밍\HCI project_9 파일\완성본\HCI_9조_TextEditor\HCI_9조_TextEditor\HCI project_9\obj\Debug\_0522.도움말_입력.resources
+E:\대학교\2020년 3학년 1학기\HCI 프로그래밍\HCI project_9 파일\완성본\HCI_9조_TextEditor\HCI_9조_TextEditor\HCI project_9\obj\Debug\_0522.도움말_파일.resources
+E:\대학교\2020년 3학년 1학기\HCI 프로그래밍\HCI project_9 파일\완성본\HCI_9조_TextEditor\HCI_9조_TextEditor\HCI project_9\obj\Debug\_0522.도움말_편집.resources
+E:\대학교\2020년 3학년 1학기\HCI 프로그래밍\HCI project_9 파일\완성본\HCI_9조_TextEditor\HCI_9조_TextEditor\HCI project_9\obj\Debug\_0522.도움말.resources
+E:\대학교\2020년 3학년 1학기\HCI 프로그래밍\HCI project_9 파일\완성본\HCI_9조_TextEditor\HCI_9조_TextEditor\HCI project_9\obj\Debug\_0522.메모장정보.resources
+E:\대학교\2020년 3학년 1학기\HCI 프로그래밍\HCI project_9 파일\완성본\HCI_9조_TextEditor\HCI_9조_TextEditor\HCI project_9\obj\Debug\HCI_project_9.바꾸기.resources
+E:\대학교\2020년 3학년 1학기\HCI 프로그래밍\HCI project_9 파일\완성본\HCI_9조_TextEditor\HCI_9조_TextEditor\HCI project_9\obj\Debug\_0522.찾기.resources
+E:\대학교\2020년 3학년 1학기\HCI 프로그래밍\HCI project_9 파일\완성본\HCI_9조_TextEditor\HCI_9조_TextEditor\HCI project_9\obj\Debug\HCI project_9.csproj.GenerateResource.cache
+E:\대학교\2020년 3학년 1학기\HCI 프로그래밍\HCI project_9 파일\완성본\HCI_9조_TextEditor\HCI_9조_TextEditor\HCI project_9\obj\Debug\HCI project_9.csproj.CoreCompileInputs.cache
+E:\대학교\2020년 3학년 1학기\HCI 프로그래밍\HCI project_9 파일\완성본\HCI_9조_TextEditor\HCI_9조_TextEditor\HCI project_9\obj\Debug\HCI project_9.csproj.CopyComplete
+E:\대학교\2020년 3학년 1학기\HCI 프로그래밍\HCI project_9 파일\완성본\HCI_9조_TextEditor\HCI_9조_TextEditor\HCI project_9\obj\Debug\HCI project_9.exe
+E:\대학교\2020년 3학년 1학기\HCI 프로그래밍\HCI project_9 파일\완성본\HCI_9조_TextEditor\HCI_9조_TextEditor\HCI project_9\obj\Debug\HCI project_9.pdb
